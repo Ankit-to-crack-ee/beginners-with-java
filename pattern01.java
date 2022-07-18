@@ -6,7 +6,6 @@ public class Mavenproject1 {
         
             Scanner sc=new Scanner(System.in);
         int n=sc.nextByte();
-        
         for(int i=0;i<n;i++)
                 {
                     for(int k=i;k>0;k--)
